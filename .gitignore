@@ -1,0 +1,10 @@
+data/
+db/
+*.duckdb
+*.wal
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
