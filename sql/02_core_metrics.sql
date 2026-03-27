@@ -1,8 +1,10 @@
 -- 02_core_metrics.sql
--- Goal: Core business KPIs (aggregation level, no advanced analytics)
+-- Purpose:
+-- Calculate core business KPIs using the staging layer.
+-- Focus: foundational metrics without advanced window functions or segmentation.
 
 -- ========================
--- 1. Monthly GMV & Orders
+-- 1. Monthly GMV and Delivered Orders
 -- ========================
 
 SELECT 
