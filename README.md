@@ -1,8 +1,11 @@
 # SQL Analytics Project – E-Commerce (DuckDB)
 
-This project demonstrates how SQL can be used to analyze e-commerce performance and derive actionable business insights.
+This project analyzes a real-world e-commerce dataset to identify key growth drivers and business risks.
 
-The analysis follows a SQL-first approach, focusing on structured data modeling, clear metric definitions, and business-oriented insights.
+Key findings include:
+- Strong but acquisition-driven GMV growth
+- A clear delivery-time threshold impacting customer satisfaction
+- Critically low customer retention (~3%)
 
 ---
 
@@ -18,7 +21,7 @@ This dashboard summarizes the key findings:
 
 ---
 
-## Objective
+## Business Questions
 
 The goal of this project is to:
 
